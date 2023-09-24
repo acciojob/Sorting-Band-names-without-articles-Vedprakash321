@@ -13,3 +13,4 @@ function removeArticles(touristSpots) {
   console.log(touristSpots);
 }
 
+sortAndDisplayTouristSpots(touristSpots);
